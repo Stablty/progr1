@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Arrswap {
 
 	public static void main(String[] args) {
-	//	
+	//
 		
 		int temp;
 		int[] i = {4,5,7};
